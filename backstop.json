@@ -9,8 +9,8 @@
   "scenarios": [
     {
       "label": "Homepage",
-      "url": "http://live-museo-de-arte-updates.pantheonsite.io/",
-      "referenceUrl": "https://update-dr-museo-de-arte-updates.pantheonsite.io/",
+      "url": "http://dev-chris-adfero-d8.pantheonsite.io/",
+      "referenceUrl": "http://update-dr-chris-adfero-d8.pantheonsite.io/",
       "hideSelectors": [],
       "selectors": [
         "document"
